@@ -28,7 +28,7 @@ author:
   pronouns         : # example: "he/him"  
   bio              : "Let it happen"
   location         : "Seoul, South Korea"
-  employer         : "Self-employed"
+  employer         : # 
   uri              : # URL
   email            : "yeonjinjung102@google.com" 
 
